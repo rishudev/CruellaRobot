@@ -22,7 +22,7 @@ jobs:
           body: Automated code formatting.
           labels: Formatted by Black
           branch: Autofixes
-          committer: RimuruDemonlord <102808014+RimuruDemonlord@users.noreply.github.com>
+          committer: rishudev <102808014+rishudev@users.noreply.github.com>
           author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
           signoff: true
           delete-branch: true

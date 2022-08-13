@@ -10,7 +10,7 @@ updates.txt
 # Session files
 CruellaRobot/*.session
 CruellaRobot/*.session-journal
-Kaizuryu.session-journal
+Cruella.session-journal
 *.session
 
 # Byte-compiled / optimized / DLL files
