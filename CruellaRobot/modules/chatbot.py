@@ -31,7 +31,10 @@ from telegram.error import BadRequest, RetryAfter, Unauthorized
 from telegram.utils.helpers import mention_html, mention_markdown, escape_markdown
 
 from CruellaRobot.modules.helper_funcs.filters import CustomFilters
-from CruellaRobot.modules.helper_funcs.chat_status import user_admin, user_admin_no_reply
+from CruellaRobot.modules.helper_funcs.chat_status import (
+    user_admin,
+    user_admin_no_reply,
+)
 from CruellaRobot import dispatcher, updater, SUPPORT_CHAT
 from CruellaRobot.modules.log_channel import gloggable
 
