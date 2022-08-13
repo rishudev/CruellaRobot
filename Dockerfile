@@ -64,12 +64,12 @@ RUN apt update && apt upgrade -y && \
 # Pypi package Repo upgrade
 RUN pip3 install --upgrade pip setuptools
 
-# Copy Python Requirements to /root/KaizuryuBot
-RUN git clone https://github.com/RimuruDemonlord/KaizuryuBot /root/KaizuryuBot
-WORKDIR /root/KaizuryuBot
+# Copy Python Requirements to /root/CruellaRobot
+RUN git clone https://github.com/rishudev/CruellaRobot /root/CruellaRobot
+WORKDIR /root/CruellaRobot
 
-#Copy config file to /root/KaizuryuBot/KaizuryuBot
-COPY ./KaizuryuBot/sample_config.py ./KaizuryuBot/config.py* /root/KaizuryuBot/KaizuryuBot/
+#Copy config file to /root/CruellaRobot/CruellaRobot
+COPY ./CruellaRobot/sample_config.py ./CruellaRobot/config.py* /root/CruellaRobot/CruellaRobot/
 
 ENV PATH="/home/bot/bin:$PATH"
 
@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD ["python3","-m","KaizuryuBot"]
+CMD ["python3","-m","CruellaRobot"]

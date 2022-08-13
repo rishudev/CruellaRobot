@@ -1,15 +1,15 @@
 # Config files, logs and stuff
-KaizuryuBot/modules/helper_funcs/temp.txt
-KaizuryuBot/elevated_users.json
-KaizuryuBot/config.py
-KaizuryuBot/config.ini
+CruellaRobot/modules/helper_funcs/temp.txt
+CruellaRobot/elevated_users.json
+CruellaRobot/config.py
+CruellaRobot/config.ini
 log.txt
 kangsticker.png
 updates.txt
 
 # Session files
-KaizuryuBot/*.session
-KaizuryuBot/*.session-journal
+CruellaRobot/*.session
+CruellaRobot/*.session-journal
 Kaizuryu.session-journal
 *.session
 
