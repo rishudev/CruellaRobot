@@ -55,6 +55,6 @@
 - <b>[String](https://github.com/rishudev)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/rishudev/CruellaRobot) </b>
 - <b>[ᴀɴᴏɴʏᴍᴏᴜs]  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/rishudev/CruellaRobot) </b>
  
-<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/rishudev/CruellaRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ KaizuryuBot ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
+<b>ᴀɴᴅ ᴀʟʟ [ᴛʜᴇ ᴄᴏɴᴛʀɪʙᴜᴛᴏʀs](https://github.com/rishudev/CruellaRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ CʀᴜᴇʟʟᴀRᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
 ━━━━━━━━━━━━━━━━━━━━
